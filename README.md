@@ -1,5 +1,4 @@
 
-```markdown
 # MySQL Database Interaction with Python
 
 This repository demonstrates how to interact with a MySQL database using Python and the `mysql-connector-python` library. It covers connecting to the database, performing basic SQL operations, and more.
